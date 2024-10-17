@@ -1,0 +1,41 @@
+{
+    "Monday": [
+        {"time": "9:00 AM", "subject": "PEV112", "location": "Room 37-701"},
+        {"time": "10:00 AM", "subject": "INT344", "location": "Room 37-701"},
+        {"time": "11:00 AM", "subject": "PEA306", "location": "Room 37-701"},
+        {"time": "12:00 PM", "subject": "FST801", "location": "Room 36-801"}
+    ],
+    "Tuesday": [
+        {"time": "9:00 AM", "subject": "CSE222", "location": "Room 37-702"},
+        {"time": "10:00 AM", "subject": "INT344", "location": "Room 37-702"},
+        {"time": "11:00 AM", "subject": "INT306", "location": "Room 37-702"},
+        {"time": "12:00 PM", "subject": "FST801", "location": "Room 36-801"}
+    ],
+    "Wednesday": [
+        {"time": "1:00 PM", "subject": "FST801", "location": "Room 36-801"},
+        {"time": "2:00 PM", "subject": "INT423", "location": "Room 37-702"},
+        {"time": "3:00 PM", "subject": "INT423", "location": "Room 37-702"},
+        {"time": "4:00 PM", "subject": "CSE322", "location": "Room 37-702"}
+    ],
+   
+    "Thursday":[
+        
+        {"time": "2:00 PM", "subject": "PEA306", "location": "Room 36-905"},
+        {"time": "3:00 PM", "subject": "CSE322", "location": "Room 36-509"},
+        {"time": "4:00 PM", "subject": "PEA306", "location": "Room 36-305"}
+    ],
+    "Friday": [
+        {"time": "11:00 AM", "subject": "PEV112", "location": "Room 36-807"},
+        {"time": "1:00 PM", "subject": "INT423", "location": "Room 37-702"},
+        {"time": "2:00 PM", "subject": "INT423", "location": "Room 37-701"},
+        {"time": "3:00 PM", "subject": "PEV112", "location": "Room 37-701"},
+        {"time": "4:00 PM", "subject": "PEV112", "location": "Room 37-701"}
+    ],
+    "Saturday": [
+        
+        {"time": "12:00 PM", "subject": "PEVS03", "location": "Room 34-607"},
+        {"time": "1:00 PM", "subject": "PEAS03", "location": "Room 34-607"}
+
+    ]
+
+}
