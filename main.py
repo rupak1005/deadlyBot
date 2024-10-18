@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # Replace with your actual bot token
-TOKEN = "7518216322:AAHfBgQhmJiL3NxBPv7B6wCPylL3c8h8Ov4"
+TOKEN = "telebot id"
 bot = telebot.TeleBot(TOKEN)
 
 # Scheduler for background tasks
