@@ -3,10 +3,10 @@
 DeadlyRBot is a Telegram bot that provides lecture timetables, reminders, and automated daily notifications. It is built using Python and integrates with the Telegram Bot API.
 
 ## Features
-- 📅 Fetch and display lecture timetables for specific days
-- ⏰ Sends reminders 10 minutes before each lecture
-- 📰 Daily notification with the day's timetable
-- ⚡ Built-in error handling and scheduling using APScheduler
+-  Fetch and display lecture timetables for specific days
+-  Sends reminders 10 minutes before each lecture
+-  Daily notification with the day's timetable
+-  Built-in error handling and scheduling using APScheduler
 
 ## Installation
 
